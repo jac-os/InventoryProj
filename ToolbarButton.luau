@@ -1,5 +1,4 @@
 --Hidden Devs Submission Discord @etreon.dev, Roblox @EmpyrealScript
-
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")
 
